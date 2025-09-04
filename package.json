@@ -43,6 +43,12 @@
           "when": "true"
         }
       ]
+    },
+    "ui": {
+      "main": {
+        "component": "HelloWorldMain",
+        "file": "ui/main.js"
+      }
     }
   },
   "scripts": {
